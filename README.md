@@ -1,4 +1,4 @@
-### Hi there 👋
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lmahfoudhi&show_icons=true&locale=en" alt="lmahfoudhi" /></p>
 
 <!--
 **lmahfoudhi/lmahfoudhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
